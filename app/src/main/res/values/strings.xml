@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Back4AppStartUp</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">tLvGQpdCNOrCI4Sb2d5vslEQIxasvonj7RyHCwQw</string>
+    <string name="back4app_client_key">DRB2MER7eVLsAaeled1NQgk7BFgCzBFTWluRO73h</string>
+</resources>
